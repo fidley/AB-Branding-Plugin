@@ -1,2 +1,2 @@
 # AB-Branding-Plugin
-Eclipse Branding plugin for all abapblog.com plugins.
+Eclipse Branding plugin for all https://abapblog.com plugins.
